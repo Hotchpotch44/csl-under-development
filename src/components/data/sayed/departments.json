@@ -1,0 +1,19 @@
+ {
+    "departments" : [
+        {
+            "id": 1,
+            "name": "Textile Dyes & Chemicals",
+            "description": "Responsible for the development and production of textile dyes and chemicals."
+        },
+        {
+            "id": 2,
+            "name": "Textile",
+            "description": "Handles textile manufacturing and processing."
+        },
+        {
+            "id": 3,
+            "name": "Consumer Products",
+            "description": "Focuses on chemicals used in consumer goods and applications."
+        }
+    ]
+}

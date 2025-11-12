@@ -1,0 +1,92 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "departmentId": 1,
+      "name": "Chemical",
+      "description": "Products related to textile dyes and chemicals.",
+      "image_description": "Textile chemicals and dyes laboratory equipment",
+      "image_url": "https://i.imgur.com/1a8Mj2k.png"
+    },
+    {
+      "id": 2,
+      "departmentId": 1,
+      "name": "Dyes",
+      "description": "Products related to textile dyes.",
+      "image_description": "Colourful dye liquids in laboratory beakers",
+      "image_url": "https://i.imgur.com/et3ilA3.png"
+    },
+    {
+      "id": 3,
+      "departmentId": 2,
+      "name": "Fabrics",
+      "description": "Products related to textile fabrics.",
+      "image_description": "Rolls of textile fabric close up",
+      "image_url": "https://i.imgur.com/QPHcYIZ.png"
+    },
+    {
+      "id": 4,
+      "departmentId": 2,
+      "name": "Knit Wear",
+      "description": "Products related to knitwear and its manufacturing.",
+      "image_description": "Folded knitted sweaters texture",
+      "image_url": "https://i.imgur.com/DtFpUFp.png"
+    },
+    {
+      "id": 5,
+      "departmentId": 2,
+      "name": "Denim Wear",
+      "description": "Products related to denim wear and its manufacturing.",
+      "image_description": "Close up denim fabric texture",
+      "image_url": "https://i.imgur.com/aXkp9W6.png"
+    },
+    {
+      "id": 6,
+      "departmentId": 3,
+      "name": "Hexa Detergent",
+      "description": "Products related to hexa detergents.",
+      "image_description": "Cleaning product bottles and sponge",
+      "image_url": "https://i.imgur.com/vF0iCMJ.png"
+    },
+    {
+      "id": 7,
+      "departmentId": 3,
+      "name": "Hexa.pic",
+      "description": "Products related to hexa.pic chemicals.",
+      "image_description": "Cleaning product bottles and sponge",
+      "image_url": "https://i.imgur.com/OmqY1Sx.png"
+    },
+    {
+      "id": 8,
+      "departmentId": 3,
+      "name": "Hexa.vim",
+      "description": "Products related to hexa.vim chemicals.",
+      "image_description": "Cleaning product bottles and sponge",
+      "image_url": "https://i.imgur.com/0sH05Si.png"
+    },
+    {
+      "id": 9,
+      "departmentId": 3,
+      "name": "Hexa.wash",
+      "description": "Products related to hexa.wash chemicals.",
+      "image_description": "Cleaning product bottles and sponge",
+      "image_url": "https://i.imgur.com/W0X9K7A.png"
+    },
+    {
+      "id": 10,
+      "departmentId": 3,
+      "name": "Hexa.clean",
+      "description": "Products related to hexa.clean chemicals.",
+      "image_description": "Cleaning product bottles and sponge",
+      "image_url": "https://i.imgur.com/fO0Cyos.png"
+    },
+    {
+      "id": 11,
+      "departmentId": 3,
+      "name": "Hexa.soap",
+      "description": "Products related to hexa.soap chemicals.",
+      "image_description": "Cleaning product bottles and sponge",
+      "image_url": "https://i.imgur.com/qDfhRdl.png"
+    }
+  ]
+}

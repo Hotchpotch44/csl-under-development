@@ -1,0 +1,2546 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "name": "Nonionic Surfactant – Xena NI 100",
+      "description": "A high-performance nonionic surfactant used in textile applications, detergents, and emulsifiers.",
+      "image": "https://i.imgur.com/Ysm298j.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "CAS Number",
+          "value": "9016-45-9"
+        },
+        {
+          "id": 2,
+          "title": "Appearance",
+          "value": "Clear to slightly hazy liquid"
+        },
+        {
+          "id": 3,
+          "title": "Active Content",
+          "value": "100%"
+        },
+        {
+          "id": 4,
+          "title": "pH (10% solution)",
+          "value": "6.5 - 8.5"
+        }
+      ],
+      "safetyInfo": "Handle with care. Avoid contact with skin and eyes.",
+      "applications": [
+        "Textile applications",
+        "Detergents",
+        "Emulsifiers"
+      ]
+    },
+    {
+      "id": 2,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "name": "Nonionic Surfactant – Xena NI 200",
+      "description": "Enhanced nonionic surfactant for textile dyeing and finishing processes.",
+      "image": "https://i.imgur.com/hrqSiXv.png",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "CAS Number",
+          "value": "9016-45-9"
+        },
+        {
+          "id": 2,
+          "title": "Molecular Formula",
+          "value": "C18H34O10"
+        },
+        {
+          "id": 3,
+          "title": "Molecular Weight",
+          "value": "386.46 g/mol"
+        },
+        {
+          "id": 4,
+          "title": "Solubility",
+          "value": "Soluble in water and alcohols"
+        }
+      ],
+      "safetyInfo": "Use appropriate protective equipment when handling.",
+      "applications": [
+        "Textile applications",
+        "Detergents",
+        "Emulsifiers"
+      ]
+    },
+    {
+      "id": 3,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "name": "Cationic Surfactant – Xena CT 100",
+      "description": "High-performance cationic surfactant for textile softeners and fabric treatment.",
+      "image": "https://i.imgur.com/933rzbY.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "CAS Number",
+          "value": "61969-48-0"
+        },
+        {
+          "id": 2,
+          "title": "Molecular Formula",
+          "value": "C22H48ClN"
+        },
+        {
+          "id": 3,
+          "title": "Molecular Weight",
+          "value": "362.09 g/mol"
+        },
+        {
+          "id": 4,
+          "title": "Color Index",
+          "value": "C.I. 42590"
+        }
+      ],
+      "safetyInfo": "Avoid inhalation and contact with skin.",
+      "applications": [
+        "Cationic surfactant applications",
+        "Textile applications",
+        "Fabric softeners"
+      ]
+    },
+    {
+      "id": 4,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "name": "Cationic Surfactant – Xena CT 200",
+      "description": "Improved cationic surfactant for softening and finishing textile fabrics.",
+      "image": "https://i.imgur.com/O0qjn9A.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "CAS Number",
+          "value": "61969-48-0"
+        },
+        {
+          "id": 2,
+          "title": "Appearance",
+          "value": "Clear viscous liquid"
+        },
+        {
+          "id": 3,
+          "title": "pH (1% solution)",
+          "value": "5.0 - 6.0"
+        },
+        {
+          "id": 4,
+          "title": "Solubility",
+          "value": "Soluble in water"
+        }
+      ],
+      "safetyInfo": "Wear gloves and eye protection while handling.",
+      "applications": [
+        "Textile softening",
+        "Fabric finishing",
+        "Emulsification"
+      ]
+    },
+    {
+      "id": 5,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "name": "Anionic Surfactant – Xena AN 100",
+      "description": "Anionic surfactant used for cleaning and wetting in textile processes.",
+      "image": "https://i.imgur.com/pAMU1uV.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "CAS Number",
+          "value": "68585-34-2"
+        },
+        {
+          "id": 2,
+          "title": "Appearance",
+          "value": "Light yellow liquid"
+        },
+        {
+          "id": 3,
+          "title": "Active Content",
+          "value": "95%"
+        },
+        {
+          "id": 4,
+          "title": "pH (10% solution)",
+          "value": "6 - 8"
+        }
+      ],
+      "safetyInfo": "Avoid contact with eyes and prolonged skin exposure.",
+      "applications": [
+        "Textile scouring",
+        "Detergents",
+        "Wetting agent"
+      ]
+    },
+    {
+      "id": 6,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "name": "Anionic Surfactant – Xena AN 200",
+      "description": "Enhanced anionic surfactant for textile wetting and emulsifying.",
+      "image": "https://i.imgur.com/TpifIJe.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "CAS Number",
+          "value": "68585-34-2"
+        },
+        {
+          "id": 2,
+          "title": "Appearance",
+          "value": "Pale yellow liquid"
+        },
+        {
+          "id": 3,
+          "title": "Active Content",
+          "value": "98%"
+        },
+        {
+          "id": 4,
+          "title": "pH (10% solution)",
+          "value": "6.5 - 8.5"
+        }
+      ],
+      "safetyInfo": "Handle with care; wear protective gloves and goggles.",
+      "applications": [
+        "Textile wetting",
+        "Detergent formulations",
+        "Emulsifier"
+      ]
+    },
+    {
+      "id": 7,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "name": "Cationic Softener CT",
+      "description": "Softening agent for textiles to provide smooth feel and easy ironing.",
+      "image": "https://i.imgur.com/MUW8TA8.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Form",
+          "value": "Liquid"
+        },
+        {
+          "id": 2,
+          "title": "pH",
+          "value": "5.5 - 6.5"
+        },
+        {
+          "id": 3,
+          "title": "Appearance",
+          "value": "Clear liquid"
+        }
+      ],
+      "safetyInfo": "Avoid skin and eye contact.",
+      "applications": [
+        "Textile softening",
+        "Finishing agent",
+        "Fabric smoothness"
+      ]
+    },
+    {
+      "id": 8,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "name": "Cationic Softener CD",
+      "description": "High-performance cationic softener for textile finishing.",
+      "image": "https://i.imgur.com/irE34ei.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Form",
+          "value": "Liquid"
+        },
+        {
+          "id": 2,
+          "title": "pH",
+          "value": "5.0 - 6.0"
+        },
+        {
+          "id": 3,
+          "title": "Appearance",
+          "value": "Slightly viscous liquid"
+        }
+      ],
+      "safetyInfo": "Use gloves and eye protection.",
+      "applications": [
+        "Textile softening",
+        "Finishing agent",
+        "Fabric treatment"
+      ]
+    },
+    {
+      "id": 9,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "name": "Cationic Softener CET",
+      "description": "A cationic softener designed for natural and synthetic fibers, giving excellent softness, smooth handle, and antistatic properties.",
+      "image": "https://i.imgur.com/Wfdkrok.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Form",
+          "value": "Liquid"
+        },
+        {
+          "id": 2,
+          "title": "Ionic Nature",
+          "value": "Cationic"
+        },
+        {
+          "id": 3,
+          "title": "Appearance",
+          "value": "Milky white emulsion"
+        },
+        {
+          "id": 4,
+          "title": "pH (1% solution)",
+          "value": "5.0 – 6.0"
+        }
+      ],
+      "safetyInfo": "Avoid direct contact with skin and eyes. Use gloves during handling.",
+      "applications": [
+        "Softening of cotton and polyester fabrics",
+        "Antistatic finishing",
+        "Garment finishing"
+      ]
+    },
+    {
+      "id": 10,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "name": "Nonionic Softener HR",
+      "description": "Nonionic softener suitable for all fiber types, providing a smooth and bulky handle without yellowing effect.",
+      "image": "https://i.imgur.com/M2Bcomx.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Form",
+          "value": "Paste or liquid"
+        },
+        {
+          "id": 2,
+          "title": "Ionic Nature",
+          "value": "Nonionic"
+        },
+        {
+          "id": 3,
+          "title": "Solubility",
+          "value": "Dispersible in water"
+        },
+        {
+          "id": 4,
+          "title": "pH (10% solution)",
+          "value": "6.0 – 7.0"
+        }
+      ],
+      "safetyInfo": "Avoid eye contact. Wash hands after use.",
+      "applications": [
+        "Textile softening",
+        "Finishing of whites and light shades",
+        "Compatible with cationic and nonionic systems"
+      ]
+    },
+    {
+      "id": 11,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "name": "Hydrophobic Silicone HR361H",
+      "description": "Hydrophobic silicone softener for achieving durable water repellency and silky softness on fabrics.",
+      "image": "https://i.imgur.com/kwbShi9.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Form",
+          "value": "Milky emulsion"
+        },
+        {
+          "id": 2,
+          "title": "Ionic Nature",
+          "value": "Nonionic"
+        },
+        {
+          "id": 3,
+          "title": "Solid Content",
+          "value": "35 ± 1%"
+        },
+        {
+          "id": 4,
+          "title": "pH (1% solution)",
+          "value": "6.0 – 7.0"
+        }
+      ],
+      "safetyInfo": "Ensure proper ventilation when using. Avoid inhalation of vapors.",
+      "applications": [
+        "Water repellent finishing",
+        "Hydrophobic coating for cotton and blends",
+        "Outdoor wear finishing"
+      ]
+    },
+    {
+      "id": 12,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "name": "Hydrophilic Silicone HR351H",
+      "description": "Hydrophilic silicone softener that imparts excellent softness while maintaining fabric absorbency.",
+      "image": "https://i.imgur.com/Om1pUla.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Form",
+          "value": "Milky emulsion"
+        },
+        {
+          "id": 2,
+          "title": "Ionic Nature",
+          "value": "Weakly cationic"
+        },
+        {
+          "id": 3,
+          "title": "Solid Content",
+          "value": "35 ± 1%"
+        },
+        {
+          "id": 4,
+          "title": "pH (1% solution)",
+          "value": "6.0 – 7.0"
+        }
+      ],
+      "safetyInfo": "Avoid prolonged skin contact. Store in cool, dry place.",
+      "applications": [
+        "Hydrophilic finishing",
+        "Towel and knit fabric softening",
+        "Post-dyeing finishing"
+      ]
+    },
+    {
+      "id": 13,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "name": "Amino Silicone C-910",
+      "description": "A premium amino-functional silicone softener providing smooth, elastic, and durable hand feel for all textiles.",
+      "image": "https://i.imgur.com/dlvrNeF.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Form",
+          "value": "Milky white emulsion"
+        },
+        {
+          "id": 2,
+          "title": "Ionic Nature",
+          "value": "Weakly cationic"
+        },
+        {
+          "id": 3,
+          "title": "Solid Content",
+          "value": "35 ± 1%"
+        },
+        {
+          "id": 4,
+          "title": "pH (1% solution)",
+          "value": "6.0 – 7.0"
+        }
+      ],
+      "safetyInfo": "Wear protective gloves and goggles. Avoid mixing with strong acids or alkalis.",
+      "applications": [
+        "Soft finishing for cotton, polyester, and blends",
+        "Improves fabric elasticity",
+        "Durable smooth handle"
+      ]
+    },
+    {
+      "id": 14,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "name": "Xena Scouring - A",
+      "description": "Powerful scouring agent designed for removing natural and synthetic impurities from textile fibers before dyeing and finishing.",
+      "image": "https://i.imgur.com/jJQu7BQ.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Form",
+          "value": "Liquid"
+        },
+        {
+          "id": 2,
+          "title": "Ionic Nature",
+          "value": "Nonionic"
+        },
+        {
+          "id": 3,
+          "title": "pH (1% solution)",
+          "value": "7.0 – 8.0"
+        },
+        {
+          "id": 4,
+          "title": "Solubility",
+          "value": "Completely soluble in water"
+        }
+      ],
+      "safetyInfo": "Avoid inhalation and direct contact with eyes or skin. Use adequate protective gear.",
+      "applications": [
+        "Pre-treatment of cotton and blends",
+        "Scouring process",
+        "Preparation for dyeing"
+      ]
+    },
+    {
+      "id": 15,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "name": "Xena Scouring - B",
+      "description": "Optimized alkaline scouring agent for removing wax, oil, and impurities from knitted and woven fabrics.",
+      "image": "https://i.imgur.com/qiY92LI.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Form",
+          "value": "Liquid"
+        },
+        {
+          "id": 2,
+          "title": "Ionic Nature",
+          "value": "Anionic"
+        },
+        {
+          "id": 3,
+          "title": "pH (1% solution)",
+          "value": "9.0 – 10.0"
+        },
+        {
+          "id": 4,
+          "title": "Compatibility",
+          "value": "Compatible with most wetting agents and alkalis"
+        }
+      ],
+      "safetyInfo": "Store in a cool, dry place. Avoid exposure to strong acids.",
+      "applications": [
+        "Scouring process",
+        "Preparation for bleaching and dyeing",
+        "Cotton and blended fabrics"
+      ]
+    },
+    {
+      "id": 16,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "name": "Soft & Smooth Finishing Agent",
+      "description": "Finishing agent formulated to impart a luxurious soft and smooth hand feel to all types of fabrics.",
+      "image": "https://i.imgur.com/P7dkEwH.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Form",
+          "value": "Milky emulsion"
+        },
+        {
+          "id": 2,
+          "title": "Ionic Nature",
+          "value": "Nonionic/Cationic"
+        },
+        {
+          "id": 3,
+          "title": "Solid Content",
+          "value": "30 ± 1%"
+        },
+        {
+          "id": 4,
+          "title": "pH (1% solution)",
+          "value": "5.0 – 6.0"
+        }
+      ],
+      "safetyInfo": "Avoid contact with eyes. Do not store below 5°C.",
+      "applications": [
+        "Finishing of cotton, polyester, and blends",
+        "Garment finishing",
+        "Soft handle improvement"
+      ]
+    },
+    {
+      "id": 17,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "name": "Wrinkle-Free Finishing Agent",
+      "description": "Durable press finishing chemical that imparts wrinkle resistance and smooth appearance to garments.",
+      "image": "https://i.imgur.com/AaYUMZw.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Form",
+          "value": "Clear liquid"
+        },
+        {
+          "id": 2,
+          "title": "Active Content",
+          "value": "50 ± 2%"
+        },
+        {
+          "id": 3,
+          "title": "pH (1% solution)",
+          "value": "3.5 – 4.5"
+        },
+        {
+          "id": 4,
+          "title": "Curing Temperature",
+          "value": "150°C – 160°C"
+        }
+      ],
+      "safetyInfo": "Ensure proper ventilation. Avoid prolonged skin contact.",
+      "applications": [
+        "Wrinkle-free finishing of cotton fabrics",
+        "Durable press finishing",
+        "Garment processing"
+      ]
+    },
+    {
+      "id": 18,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "name": "Xena Anti-Static 301",
+      "description": "Anti-static finishing agent that reduces static charge build-up on synthetic and blended fabrics.",
+      "image": "https://i.imgur.com/dFXZQUF.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Form",
+          "value": "Liquid"
+        },
+        {
+          "id": 2,
+          "title": "Ionic Nature",
+          "value": "Cationic"
+        },
+        {
+          "id": 3,
+          "title": "pH (1% solution)",
+          "value": "6.0 – 7.0"
+        },
+        {
+          "id": 4,
+          "title": "Solubility",
+          "value": "Easily dispersible in water"
+        }
+      ],
+      "safetyInfo": "Use gloves and goggles. Avoid contact with acids.",
+      "applications": [
+        "Anti-static finishing for polyester and blends",
+        "Improves sewing performance",
+        "Reduces fabric cling"
+      ]
+    },
+    {
+      "id": 19,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "name": "Xena Anti-Microbial 302",
+      "description": "Durable antimicrobial finishing agent offering long-lasting protection against bacteria and odor.",
+      "image": "https://i.imgur.com/DfpCbbI.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Form",
+          "value": "Clear liquid"
+        },
+        {
+          "id": 2,
+          "title": "Ionic Nature",
+          "value": "Cationic"
+        },
+        {
+          "id": 3,
+          "title": "pH (1% solution)",
+          "value": "5.5 – 6.5"
+        },
+        {
+          "id": 4,
+          "title": "Durability",
+          "value": "Up to 30 washes"
+        }
+      ],
+      "safetyInfo": "Avoid ingestion. Rinse thoroughly after skin contact.",
+      "applications": [
+        "Antimicrobial finishing for cotton and blends",
+        "Sportswear",
+        "Medical textiles"
+      ]
+    },
+    {
+      "id": 20,
+      "departmentId": 1,
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "name": "Xena Enzyme Booster 303",
+      "description": "A specialized enzyme booster that enhances the efficiency of bio-polishing and bio-desizing processes.",
+      "image": "https://i.imgur.com/haK5T8O.png",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Form",
+          "value": "Liquid"
+        },
+        {
+          "id": 2,
+          "title": "Ionic Nature",
+          "value": "Nonionic"
+        },
+        {
+          "id": 3,
+          "title": "pH (1% solution)",
+          "value": "6.0 – 7.0"
+        },
+        {
+          "id": 4,
+          "title": "Temperature Stability",
+          "value": "Up to 60°C"
+        }
+      ],
+      "safetyInfo": "Store below 40°C. Avoid direct sunlight.",
+      "applications": [
+        "Enzyme desizing",
+        "Bio-polishing of cotton",
+        "Enhances enzyme activity in textile processing"
+      ]
+    },
+    {
+      "id": 21,
+      "departmentId": 1,
+      "categoryId": 2,
+      "subCategoryId": 3,
+      "name": "Xena React Blue R",
+      "description": "Reactive Blue R is a versatile reactive dye offering excellent fixation and brightness for cellulosic fibers.",
+      "image": "https://i.imgur.com/zKNyIQP.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Color Index",
+          "value": "Reactive Blue 19"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder / Granular"
+        },
+        {
+          "id": 3,
+          "title": "Solubility",
+          "value": "Easily soluble in water"
+        },
+        {
+          "id": 4,
+          "title": "pH (1% solution)",
+          "value": "6.0 – 7.0"
+        }
+      ],
+      "safetyInfo": "Avoid inhalation of powder. Use in a ventilated area.",
+      "applications": [
+        "Cotton dyeing",
+        "Viscose dyeing",
+        "Printing on cellulosic fabrics"
+      ]
+    },
+    {
+      "id": 22,
+      "departmentId": 1,
+      "categoryId": 2,
+      "subCategoryId": 3,
+      "name": "Xena React Red M",
+      "description": "High-quality reactive red dye designed for brilliance and superior wash fastness on cotton and blends.",
+      "image": "https://i.imgur.com/IR78I54.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Color Index",
+          "value": "Reactive Red 120"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder"
+        },
+        {
+          "id": 3,
+          "title": "Strength",
+          "value": "High color yield"
+        },
+        {
+          "id": 4,
+          "title": "Fixation",
+          "value": "Above 70%"
+        }
+      ],
+      "safetyInfo": "Use protective gloves and mask. Avoid dust formation.",
+      "applications": [
+        "Cotton fabric dyeing",
+        "Blended yarns",
+        "Textile printing"
+      ]
+    },
+    {
+      "id": 23,
+      "departmentId": 1,
+      "categoryId": 2,
+      "subCategoryId": 3,
+      "name": "Reactive Black ED",
+      "description": "Reactive Black ED provides deep shade intensity and excellent levelness for cotton and viscose fabrics.",
+      "image": "https://i.imgur.com/ukaB9Zc.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Color Index",
+          "value": "Reactive Black 5"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder"
+        },
+        {
+          "id": 3,
+          "title": "Dye Class",
+          "value": "Bifunctional reactive dye"
+        },
+        {
+          "id": 4,
+          "title": "Wash Fastness",
+          "value": "Grade 4–5"
+        }
+      ],
+      "safetyInfo": "Avoid prolonged exposure. Wash skin thoroughly after handling.",
+      "applications": [
+        "Dark shade cotton dyeing",
+        "Viscose dyeing",
+        "Knitted and woven fabrics"
+      ]
+    },
+    {
+      "id": 24,
+      "departmentId": 1,
+      "categoryId": 2,
+      "subCategoryId": 3,
+      "name": "Reactive Red MS",
+      "description": "Brilliant reactive red dye with outstanding color consistency and stability under alkaline conditions.",
+      "image": "https://i.imgur.com/xpATw07.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Color Index",
+          "value": "Reactive Red 195"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder"
+        },
+        {
+          "id": 3,
+          "title": "pH (1% solution)",
+          "value": "6.0 – 8.0"
+        },
+        {
+          "id": 4,
+          "title": "Light Fastness",
+          "value": "Grade 6"
+        }
+      ],
+      "safetyInfo": "Avoid direct contact with eyes. Use respirator during handling.",
+      "applications": [
+        "Cotton and viscose fabrics",
+        "Dye printing applications",
+        "Yarn dyeing"
+      ]
+    },
+    {
+      "id": 25,
+      "departmentId": 1,
+      "categoryId": 2,
+      "subCategoryId": 3,
+      "name": "Reactive Blue MS",
+      "description": "Brilliant reactive blue dye with excellent reproducibility, fixation, and wash resistance.",
+      "image": "https://i.imgur.com/fohptm1.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Color Index",
+          "value": "Reactive Blue 221"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder"
+        },
+        {
+          "id": 3,
+          "title": "Solubility",
+          "value": "Fully soluble in warm water"
+        },
+        {
+          "id": 4,
+          "title": "Wash Fastness",
+          "value": "Grade 4–5"
+        }
+      ],
+      "safetyInfo": "Use adequate PPE. Store in a dry, cool place away from oxidizers.",
+      "applications": [
+        "Cotton and viscose dyeing",
+        "Textile printing",
+        "Continuous dyeing process"
+      ]
+    },
+    {
+      "id": 26,
+      "departmentId": 1,
+      "categoryId": 2,
+      "subCategoryId": 4,
+      "name": "Xena Fast Black VSF",
+      "description": "High-strength direct black dye with excellent solubility and uniform shade development on cellulose fibers.",
+      "image": "https://i.imgur.com/DifM0C3.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Color Index",
+          "value": "Direct Black 22"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder"
+        },
+        {
+          "id": 3,
+          "title": "Solubility",
+          "value": "Easily soluble in water"
+        },
+        {
+          "id": 4,
+          "title": "Light Fastness",
+          "value": "Grade 5–6"
+        }
+      ],
+      "safetyInfo": "Avoid dust formation. Use gloves and mask during handling.",
+      "applications": [
+        "Cotton fabric dyeing",
+        "Viscose and rayon dyeing",
+        "Blended fabric dyeing"
+      ]
+    },
+    {
+      "id": 27,
+      "departmentId": 1,
+      "categoryId": 2,
+      "subCategoryId": 4,
+      "name": "Xena Fast Brown GTL",
+      "description": "Direct Brown GTL provides rich brown shade with excellent leveling and migration properties.",
+      "image": "https://i.imgur.com/oa2XkuW.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Color Index",
+          "value": "Direct Brown 95"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder / Granular"
+        },
+        {
+          "id": 3,
+          "title": "pH (1% solution)",
+          "value": "6.0 – 8.0"
+        },
+        {
+          "id": 4,
+          "title": "Wash Fastness",
+          "value": "Grade 4"
+        }
+      ],
+      "safetyInfo": "Use in a well-ventilated area. Avoid inhalation of dust.",
+      "applications": [
+        "Cotton and viscose dyeing",
+        "Textile printing",
+        "Yarn and fabric dyeing"
+      ]
+    },
+    {
+      "id": 28,
+      "departmentId": 1,
+      "categoryId": 2,
+      "subCategoryId": 4,
+      "name": "Xena Fast Red BH",
+      "description": "Bright and stable direct red dye ensuring high tinctorial strength and superior penetration on cotton and blends.",
+      "image": "https://i.imgur.com/Oo1snk4.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Color Index",
+          "value": "Direct Red 81"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder"
+        },
+        {
+          "id": 3,
+          "title": "Dye Type",
+          "value": "Direct substantive dye"
+        },
+        {
+          "id": 4,
+          "title": "Light Fastness",
+          "value": "Grade 5"
+        }
+      ],
+      "safetyInfo": "Wear protective mask and gloves. Store in a dry, cool area.",
+      "applications": [
+        "Cotton fabrics",
+        "Viscose yarns",
+        "Blended textiles"
+      ]
+    },
+    {
+      "id": 29,
+      "departmentId": 1,
+      "categoryId": 2,
+      "subCategoryId": 5,
+      "name": "Xena Disperse Black DSF",
+      "description": "High-quality disperse black dye offering excellent color depth, high dispersion stability, and superior heat resistance for polyester dyeing.",
+      "image": "https://i.imgur.com/qQ4r0RS.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Color Index",
+          "value": "Disperse Black 60"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder"
+        },
+        {
+          "id": 3,
+          "title": "Application Medium",
+          "value": "High-temperature dyeing"
+        },
+        {
+          "id": 4,
+          "title": "Sublimation Fastness",
+          "value": "Grade 5"
+        }
+      ],
+      "safetyInfo": "Avoid dust formation; use gloves, mask, and protective clothing during handling.",
+      "applications": [
+        "Polyester and acetate fiber dyeing",
+        "Microfiber textiles",
+        "Printing on polyester blends"
+      ]
+    },
+    {
+      "id": 30,
+      "departmentId": 1,
+      "categoryId": 2,
+      "subCategoryId": 5,
+      "name": "Xena Disperse Red DRF",
+      "description": "Brilliant red disperse dye known for its excellent fastness properties and level dyeing performance on polyester and its blends.",
+      "image": "https://i.imgur.com/l5jgWxX.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Color Index",
+          "value": "Disperse Red 60"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder / Granular"
+        },
+        {
+          "id": 3,
+          "title": "Heat Stability",
+          "value": "Up to 200°C"
+        },
+        {
+          "id": 4,
+          "title": "Light Fastness",
+          "value": "Grade 5–6"
+        }
+      ],
+      "safetyInfo": "Use in ventilated workspace. Avoid inhalation of dust. Store in a cool, dry area.",
+      "applications": [
+        "Polyester yarn and fabric dyeing",
+        "Disperse printing",
+        "Textile fiber blends"
+      ]
+    },
+    {
+      "id": 31,
+      "departmentId": 1,
+      "categoryId": 2,
+      "subCategoryId": 6,
+      "name": "Xena Sulphur Black BR",
+      "description": "A deep black sulphur dye offering high wash and light fastness, widely used in cotton and cellulosic fabric dyeing.",
+      "image": "https://i.imgur.com/SmPZ8aG.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Color Index",
+          "value": "Sulphur Black 1"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder / Flakes"
+        },
+        {
+          "id": 3,
+          "title": "Solubility",
+          "value": "Soluble in sodium sulfide solution"
+        },
+        {
+          "id": 4,
+          "title": "Light Fastness",
+          "value": "Grade 5–6"
+        }
+      ],
+      "safetyInfo": "Avoid contact with skin and eyes. Use gloves and eyewear during handling.",
+      "applications": [
+        "Cotton and viscose dyeing",
+        "Denim garments",
+        "Yarn and piece dyeing"
+      ]
+    },
+    {
+      "id": 32,
+      "departmentId": 1,
+      "categoryId": 2,
+      "subCategoryId": 6,
+      "name": "Xena Sulphur Blue 2B",
+      "description": "High-strength sulphur blue dye that provides level dyeing with excellent wash fastness on cellulosic fibers.",
+      "image": "https://i.imgur.com/z00QQiB.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Color Index",
+          "value": "Sulphur Blue 7"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder"
+        },
+        {
+          "id": 3,
+          "title": "Appearance",
+          "value": "Dark blue powder"
+        },
+        {
+          "id": 4,
+          "title": "Fastness to Washing",
+          "value": "Excellent"
+        }
+      ],
+      "safetyInfo": "Use protective gloves and avoid breathing dust. Store in dry, ventilated areas.",
+      "applications": [
+        "Denim and cotton fabric dyeing",
+        "Woven textile finishing",
+        "Continuous and batch dyeing processes"
+      ]
+    },
+    {
+      "id": 33,
+      "departmentId": 1,
+      "categoryId": 2,
+      "subCategoryId": 6,
+      "name": "Xena Sulphur Brown G",
+      "description": "A rich brown sulphur dye designed for high shade uniformity and superior resistance to washing and rubbing.",
+      "image": "https://i.imgur.com/SW61h0P.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Color Index",
+          "value": "Sulphur Brown 37"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder"
+        },
+        {
+          "id": 3,
+          "title": "Solubility",
+          "value": "Insoluble in water, soluble in alkaline sulfide"
+        },
+        {
+          "id": 4,
+          "title": "Light Fastness",
+          "value": "Grade 6"
+        }
+      ],
+      "safetyInfo": "Handle with care. Avoid prolonged contact with skin or eyes.",
+      "applications": [
+        "Cotton and viscose fabrics",
+        "Workwear textiles",
+        "Denim garment dyeing"
+      ]
+    },
+    {
+      "id": 34,
+      "departmentId": 2,
+      "categoryId": 3,
+      "subCategoryId": 7,
+      "name": "S/J Fabric",
+      "description": "Single Jersey (S/J) fabric known for its soft texture and excellent stretchability, ideal for t-shirts and casual wear.",
+      "image": "https://i.imgur.com/qEqqPzU.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Composition",
+          "value": "100% Cotton / Cotton Blend"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "140–220 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Width",
+          "value": "58–60 inches"
+        },
+        {
+          "id": 4,
+          "title": "Knitting Type",
+          "value": "Single Jersey Circular Knit"
+        }
+      ],
+      "safetyInfo": "No specific hazard. Store in dry and cool condition.",
+      "applications": [
+        "T-shirts",
+        "Undergarments",
+        "Casual wear"
+      ]
+    },
+    {
+      "id": 35,
+      "departmentId": 2,
+      "categoryId": 3,
+      "subCategoryId": 7,
+      "name": "Rib Fabric",
+      "description": "Flexible and stretchable knit fabric used for cuffs, necklines, and body-fitting garments.",
+      "image": "https://i.imgur.com/gFHyqQW.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Composition",
+          "value": "95% Cotton, 5% Spandex (varies)"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "180–280 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Stretch",
+          "value": "High elasticity"
+        },
+        {
+          "id": 4,
+          "title": "Texture",
+          "value": "Ribbed pattern on both sides"
+        }
+      ],
+      "safetyInfo": "Keep away from moisture. Handle with clean, dry hands.",
+      "applications": [
+        "Cuffs and collars",
+        "Sportswear",
+        "Casual fashion wear"
+      ]
+    },
+    {
+      "id": 36,
+      "departmentId": 2,
+      "categoryId": 3,
+      "subCategoryId": 7,
+      "name": "Fancy Fabric",
+      "description": "Decorative knitted fabric available in various patterns and textures for premium garment applications.",
+      "image": "https://i.imgur.com/YsoD4CU.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Composition",
+          "value": "Cotton / Polyester / Spandex blends"
+        },
+        {
+          "id": 2,
+          "title": "Pattern",
+          "value": "Custom or jacquard knit"
+        },
+        {
+          "id": 3,
+          "title": "GSM Range",
+          "value": "160–250 GSM"
+        },
+        {
+          "id": 4,
+          "title": "Finish",
+          "value": "Soft, brushed or smooth finish"
+        }
+      ],
+      "safetyInfo": "Store rolled and covered to prevent dust accumulation.",
+      "applications": [
+        "Designer garments",
+        "Fashion tops",
+        "Boutique wear"
+      ]
+    },
+    {
+      "id": 37,
+      "departmentId": 2,
+      "categoryId": 3,
+      "subCategoryId": 7,
+      "name": "Slab Fabric",
+      "description": "Textured knit fabric with irregular slub yarn patterns, giving a natural and unique appearance.",
+      "image": "https://i.imgur.com/k2rQHEz.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Composition",
+          "value": "Cotton / Polyester blend"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "150–200 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Texture",
+          "value": "Irregular slub patterns"
+        },
+        {
+          "id": 4,
+          "title": "Use",
+          "value": "Casual and summer wear"
+        }
+      ],
+      "safetyInfo": "Avoid exposure to direct sunlight for prolonged periods.",
+      "applications": [
+        "Casual tops",
+        "T-shirts",
+        "Lightweight apparel"
+      ]
+    },
+    {
+      "id": 38,
+      "departmentId": 2,
+      "categoryId": 3,
+      "subCategoryId": 8,
+      "name": "Denim",
+      "description": "Durable woven fabric known for its twill weave pattern and versatility in jeans, jackets, and casual wear.",
+      "image": "https://i.imgur.com/ybbeXdY.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Composition",
+          "value": "100% Cotton / Cotton-Spandex blend"
+        },
+        {
+          "id": 2,
+          "title": "Weave Type",
+          "value": "Twill (3/1 or 2/1)"
+        },
+        {
+          "id": 3,
+          "title": "GSM Range",
+          "value": "250–450 GSM"
+        },
+        {
+          "id": 4,
+          "title": "Width",
+          "value": "58–60 inches"
+        }
+      ],
+      "safetyInfo": "No special hazards. Store in cool, dry conditions away from direct sunlight.",
+      "applications": [
+        "Jeans",
+        "Jackets",
+        "Casual wear"
+      ]
+    },
+    {
+      "id": 39,
+      "departmentId": 2,
+      "categoryId": 3,
+      "subCategoryId": 8,
+      "name": "Taffeta",
+      "description": "Crisp, smooth woven fabric with a lustrous surface, used for linings, formalwear, and garments requiring structure.",
+      "image": "https://i.imgur.com/mBk3nAK.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Composition",
+          "value": "Polyester / Nylon / Silk"
+        },
+        {
+          "id": 2,
+          "title": "Weave Type",
+          "value": "Plain weave"
+        },
+        {
+          "id": 3,
+          "title": "GSM Range",
+          "value": "80–150 GSM"
+        },
+        {
+          "id": 4,
+          "title": "Finish",
+          "value": "Glossy and crisp"
+        }
+      ],
+      "safetyInfo": "Avoid high heat ironing; use low to medium setting.",
+      "applications": [
+        "Dress lining",
+        "Evening gowns",
+        "Curtains"
+      ]
+    },
+    {
+      "id": 40,
+      "departmentId": 2,
+      "categoryId": 3,
+      "subCategoryId": 8,
+      "name": "Satin",
+      "description": "Smooth and shiny woven fabric known for its lustrous face and luxurious feel, suitable for fashion and home textiles.",
+      "image": "https://i.imgur.com/F6WSk4T.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Composition",
+          "value": "Polyester / Silk / Rayon blends"
+        },
+        {
+          "id": 2,
+          "title": "Weave Type",
+          "value": "Satin weave"
+        },
+        {
+          "id": 3,
+          "title": "GSM Range",
+          "value": "100–200 GSM"
+        },
+        {
+          "id": 4,
+          "title": "Finish",
+          "value": "Glossy front, matte back"
+        }
+      ],
+      "safetyInfo": "Keep away from sharp objects to prevent snags.",
+      "applications": [
+        "Evening dresses",
+        "Lingerie",
+        "Bedding"
+      ]
+    },
+    {
+      "id": 41,
+      "departmentId": 2,
+      "categoryId": 4,
+      "subCategoryId": 9,
+      "name": "Men’s Knit Shirt",
+      "description": "Comfortable and breathable knit shirt crafted from premium cotton for daily wear and casual style.",
+      "image": "https://i.imgur.com/vDxfjI3.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Fabric Type",
+          "value": "100% Cotton Single Jersey"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "160–180 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Neck Type",
+          "value": "Crew / V-Neck"
+        },
+        {
+          "id": 4,
+          "title": "Fit",
+          "value": "Regular / Slim Fit"
+        }
+      ],
+      "safetyInfo": "Wash at 30°C. Do not bleach. Iron on low heat.",
+      "applications": [
+        "Casual wear",
+        "Promotional apparel",
+        "Corporate uniforms"
+      ]
+    },
+    {
+      "id": 42,
+      "departmentId": 2,
+      "categoryId": 4,
+      "subCategoryId": 9,
+      "name": "Men’s Polo Shirt",
+      "description": "Classic knit polo shirt featuring soft pique fabric, durable collar, and professional styling for both casual and formal settings.",
+      "image": "https://i.imgur.com/tWAHX2O.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Fabric Type",
+          "value": "Cotton / Polyester Pique Knit"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "180–220 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Buttons",
+          "value": "2 or 3 placket options"
+        },
+        {
+          "id": 4,
+          "title": "Fit",
+          "value": "Regular / Athletic"
+        }
+      ],
+      "safetyInfo": "Machine wash gentle cycle. Avoid high-temperature drying.",
+      "applications": [
+        "Casual wear",
+        "Work uniforms",
+        "Sportswear"
+      ]
+    },
+    {
+      "id": 43,
+      "departmentId": 2,
+      "categoryId": 4,
+      "subCategoryId": 9,
+      "name": "Men’s Hoodie",
+      "description": "Soft and durable knit hoodie designed for warmth and comfort, ideal for leisurewear and active use.",
+      "image": "https://i.imgur.com/EpMDd6a.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Fabric Type",
+          "value": "Fleece / Terry Knit"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "280–320 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Hood Type",
+          "value": "Adjustable drawstring hood"
+        },
+        {
+          "id": 4,
+          "title": "Pocket",
+          "value": "Kangaroo pocket"
+        }
+      ],
+      "safetyInfo": "Do not tumble dry at high heat. Iron inside out if needed.",
+      "applications": [
+        "Leisurewear",
+        "Outdoor clothing",
+        "Promotional apparel"
+      ]
+    },
+    {
+      "id": 44,
+      "departmentId": 2,
+      "categoryId": 4,
+      "subCategoryId": 10,
+      "name": "Women’s Knit T-Shirt",
+      "description": "Lightweight, breathable knit T-shirt designed with a soft hand feel and excellent drape — perfect for everyday comfort.",
+      "image": "https://i.imgur.com/BdvTc8l.png",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Fabric Type",
+          "value": "Combed Cotton / Cotton-Spandex Single Jersey"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "140–160 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Neck Type",
+          "value": "Round / V-Neck"
+        },
+        {
+          "id": 4,
+          "title": "Fit",
+          "value": "Slim / Regular"
+        }
+      ],
+      "safetyInfo": "Wash inside out at 30°C. Avoid direct sunlight while drying.",
+      "applications": [
+        "Casual wear",
+        "Retail fashion",
+        "Promotional apparel"
+      ]
+    },
+    {
+      "id": 45,
+      "departmentId": 2,
+      "categoryId": 4,
+      "subCategoryId": 10,
+      "name": "Women’s Crop Top",
+      "description": "Trendy and stretchable crop top featuring soft knit fabric with modern cuts and breathable comfort for all-day wear.",
+      "image": "https://i.imgur.com/lcBV0dc.png",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Fabric Type",
+          "value": "Cotton / Lycra Rib Knit"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "160–180 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Neck Type",
+          "value": "Round / Scoop Neck"
+        },
+        {
+          "id": 4,
+          "title": "Stretchability",
+          "value": "High"
+        }
+      ],
+      "safetyInfo": "Gentle hand wash recommended. Avoid bleaching agents.",
+      "applications": [
+        "Fashion wear",
+        "Casual wear",
+        "Brand merchandise"
+      ]
+    },
+    {
+      "id": 46,
+      "departmentId": 2,
+      "categoryId": 4,
+      "subCategoryId": 10,
+      "name": "Women’s Hoodie",
+      "description": "Soft fleece knit hoodie designed for comfort and warmth with stylish fit and cozy fabric — ideal for both leisure and streetwear.",
+      "image": "https://i.imgur.com/rvoCqjK.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Fabric Type",
+          "value": "Brushed Fleece / French Terry"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "260–300 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Pocket Type",
+          "value": "Kangaroo pocket"
+        },
+        {
+          "id": 4,
+          "title": "Fit",
+          "value": "Regular / Oversized"
+        }
+      ],
+      "safetyInfo": "Do not tumble dry. Iron on reverse side if necessary.",
+      "applications": [
+        "Leisurewear",
+        "Casual outerwear",
+        "Promotional clothing"
+      ]
+    },
+    {
+      "id": 47,
+      "departmentId": 2,
+      "categoryId": 4,
+      "subCategoryId": 11,
+      "name": "Kids’ Knit T-Shirt",
+      "description": "Soft, breathable knit T-shirt designed for children’s comfort and durability with playful color options.",
+      "image": "https://i.imgur.com/q8UuzM1.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Fabric Type",
+          "value": "100% Combed Cotton Single Jersey"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "130–150 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Neck Type",
+          "value": "Round Neck"
+        },
+        {
+          "id": 4,
+          "title": "Print Option",
+          "value": "Reactive or Pigment Print"
+        }
+      ],
+      "safetyInfo": "Certified skin-safe dyes used. Gentle machine wash recommended.",
+      "applications": [
+        "Kidswear collections",
+        "Retail apparel",
+        "School uniforms"
+      ]
+    },
+    {
+      "id": 48,
+      "departmentId": 2,
+      "categoryId": 4,
+      "subCategoryId": 11,
+      "name": "Kids’ Hoodie",
+      "description": "Warm and cozy fleece hoodie for kids, featuring soft-touch fabric and durable stitching for active wear.",
+      "image": "https://i.imgur.com/Gu3psG9.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Fabric Type",
+          "value": "Cotton-Polyester Fleece"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "240–280 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Pocket Type",
+          "value": "Kangaroo Pocket"
+        },
+        {
+          "id": 4,
+          "title": "Closure",
+          "value": "Zipper / Pullover"
+        }
+      ],
+      "safetyInfo": "Avoid direct heat while ironing. Do not bleach.",
+      "applications": [
+        "Winter kidswear",
+        "Outdoor clothing",
+        "Casual wear"
+      ]
+    },
+    {
+      "id": 49,
+      "departmentId": 2,
+      "categoryId": 4,
+      "subCategoryId": 11,
+      "name": "Kids’ Pajama Set",
+      "description": "Two-piece knit pajama set designed for comfort, softness, and safe nightwear for kids.",
+      "image": "https://i.imgur.com/FjGxQbR.png",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Fabric Type",
+          "value": "Cotton Interlock / Rib Knit"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "160–180 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Set Components",
+          "value": "Top and Bottom"
+        },
+        {
+          "id": 4,
+          "title": "Finish",
+          "value": "Soft enzyme wash"
+        }
+      ],
+      "safetyInfo": "Hypoallergenic fabric. Wash separately in mild detergent.",
+      "applications": [
+        "Nightwear",
+        "Home comfort wear",
+        "Retail and export kidswear"
+      ]
+    },
+    {
+      "id": 50,
+      "departmentId": 2,
+      "categoryId": 5,
+      "subCategoryId": 12,
+      "name": "Men’s Denim Jacket",
+      "description": "Classic men’s denim jacket crafted with premium cotton twill for durability, comfort, and timeless style.",
+      "image": "https://i.imgur.com/v438HiJ.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Fabric Type",
+          "value": "100% Cotton Denim"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "300–340 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Wash Type",
+          "value": "Stone / Enzyme / Vintage Wash"
+        },
+        {
+          "id": 4,
+          "title": "Finishing",
+          "value": "Soft touch with wrinkle resistance"
+        }
+      ],
+      "safetyInfo": "Do not bleach. Wash separately with cold water. Iron inside out.",
+      "applications": [
+        "Men’s casualwear",
+        "Streetwear fashion",
+        "Export garments"
+      ]
+    },
+    {
+      "id": 51,
+      "departmentId": 2,
+      "categoryId": 5,
+      "subCategoryId": 12,
+      "name": "Men’s Denim Pant",
+      "description": "Durable and stylish men’s denim pants with stretchable fabric options designed for comfort and versatility.",
+      "image": "https://i.imgur.com/vFTZQ01.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Fabric Type",
+          "value": "Cotton or Cotton-Lycra Denim"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "280–320 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Fit Type",
+          "value": "Regular / Slim / Skinny"
+        },
+        {
+          "id": 4,
+          "title": "Wash Effect",
+          "value": "Acid, Enzyme, or Vintage Wash"
+        }
+      ],
+      "safetyInfo": "Avoid prolonged soaking. Wash with mild detergent. Dry in shade.",
+      "applications": [
+        "Men’s denim wear",
+        "Retail & export market",
+        "Casual and workwear"
+      ]
+    },
+    {
+      "id": 52,
+      "departmentId": 2,
+      "categoryId": 5,
+      "subCategoryId": 13,
+      "name": "Women’s Denim Jacket",
+      "description": "Stylish women’s denim jacket designed with a modern fit and soft wash finish for comfort and elegance.",
+      "image": "https://i.imgur.com/dgNdtzX.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Fabric Type",
+          "value": "100% Cotton or Cotton-Lycra Denim"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "280–320 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Wash Type",
+          "value": "Enzyme / Vintage / Soft Wash"
+        },
+        {
+          "id": 4,
+          "title": "Fit",
+          "value": "Regular / Slim Fit"
+        }
+      ],
+      "safetyInfo": "Wash separately with similar colors. Do not bleach. Line dry.",
+      "applications": [
+        "Women’s casualwear",
+        "Denim outerwear",
+        "Fashion export collections"
+      ]
+    },
+    {
+      "id": 53,
+      "departmentId": 2,
+      "categoryId": 5,
+      "subCategoryId": 13,
+      "name": "Women’s Denim Pant",
+      "description": "High-quality women’s denim pants offering flexibility, style, and a comfortable fit suitable for all-day wear.",
+      "image": "https://i.imgur.com/KRgVr0Q.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Fabric Type",
+          "value": "Stretchable Denim (Cotton + Lycra)"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "270–310 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Fit Type",
+          "value": "Skinny / Regular / Bootcut"
+        },
+        {
+          "id": 4,
+          "title": "Finishing",
+          "value": "Soft wash with fade or distressed effect"
+        }
+      ],
+      "safetyInfo": "Machine wash cold. Use mild detergent. Iron inside out.",
+      "applications": [
+        "Women’s denim fashion",
+        "Casual & lifestyle apparel",
+        "Export-quality jeans"
+      ]
+    },
+    {
+      "id": 54,
+      "departmentId": 2,
+      "categoryId": 5,
+      "subCategoryId": 14,
+      "name": "Kids’ Denim Jacket",
+      "description": "Comfortable and durable denim jacket for kids, designed for everyday wear with a soft touch and flexible fit.",
+      "image": "https://i.imgur.com/AuvmtAZ.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Fabric Type",
+          "value": "Cotton Denim / Stretch Denim"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "240–280 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Wash Type",
+          "value": "Enzyme / Soft Wash"
+        },
+        {
+          "id": 4,
+          "title": "Sizes Available",
+          "value": "2–12 Years"
+        }
+      ],
+      "safetyInfo": "Use child-safe detergents. Wash inside out with similar colors.",
+      "applications": [
+        "Kids’ casualwear",
+        "Everyday denim jackets",
+        "Retail and export fashion collections"
+      ]
+    },
+    {
+      "id": 55,
+      "departmentId": 2,
+      "categoryId": 5,
+      "subCategoryId": 14,
+      "name": "Kids’ Denim Pant",
+      "description": "Stylish and soft kids’ denim pant designed for durability and flexibility, perfect for active daily wear.",
+      "image": "https://i.imgur.com/O3QqH1k.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Fabric Type",
+          "value": "Cotton + Lycra Stretch Denim"
+        },
+        {
+          "id": 2,
+          "title": "GSM Range",
+          "value": "230–270 GSM"
+        },
+        {
+          "id": 3,
+          "title": "Fit Type",
+          "value": "Regular / Slim Fit"
+        },
+        {
+          "id": 4,
+          "title": "Finishing",
+          "value": "Soft wash with minimal fade"
+        }
+      ],
+      "safetyInfo": "Wash gently. Avoid bleach or harsh chemicals.",
+      "applications": [
+        "Kids’ denim wear",
+        "Everyday jeans",
+        "Comfortable schoolwear"
+      ]
+    },
+
+
+    
+    {
+      "id": 56,
+      "departmentId": 3,
+      "categoryId": 6,
+      "subCategoryId": null,
+      "name": "2 kg - Hexa Detergent",
+      "description": "Powerful detergent formulated for deep cleaning and stain removal. Suitable for all fabric types.",
+      "image": "https://i.imgur.com/Cg37juT.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Net Weight",
+          "value": "2 kg"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder"
+        },
+        {
+          "id": 3,
+          "title": "Fragrance",
+          "value": "Fresh Floral"
+        },
+        {
+          "id": 4,
+          "title": "Color",
+          "value": "White"
+        }
+      ],
+      "safetyInfo": "Keep away from children. Avoid contact with eyes.",
+      "applications": [
+        "Laundry cleaning",
+        "Household washing",
+        "Fabric stain removal"
+      ]
+    },
+    {
+      "id": 57,
+      "departmentId": 3,
+      "categoryId": 6,
+      "subCategoryId": null,
+      "name": "1 kg - Hexa Detergent",
+      "description": "Effective detergent powder for everyday laundry use, ensuring brightness and freshness.",
+      "image": "https://i.imgur.com/ZxETSqk.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Net Weight",
+          "value": "1 kg"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder"
+        },
+        {
+          "id": 3,
+          "title": "Fragrance",
+          "value": "Fresh Floral"
+        },
+        {
+          "id": 4,
+          "title": "Color",
+          "value": "White"
+        }
+      ],
+      "safetyInfo": "Use as directed. Store in a cool, dry place.",
+      "applications": [
+        "Laundry cleaning",
+        "Hand wash",
+        "Machine wash"
+      ]
+    },
+    {
+      "id": 58,
+      "departmentId": 3,
+      "categoryId": 6,
+      "subCategoryId": null,
+      "name": "500 gm - Hexa Detergent",
+      "description": "Compact pack detergent with powerful cleaning and long-lasting fragrance.",
+      "image": "https://i.imgur.com/c9ncT8v.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Net Weight",
+          "value": "500 gm"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder"
+        },
+        {
+          "id": 3,
+          "title": "Fragrance",
+          "value": "Fresh Floral"
+        },
+        {
+          "id": 4,
+          "title": "Color",
+          "value": "White"
+        }
+      ],
+      "safetyInfo": "Avoid inhalation of powder. Rinse hands after use.",
+      "applications": [
+        "Daily laundry",
+        "General household cleaning"
+      ]
+    },
+    {
+      "id": 59,
+      "departmentId": 3,
+      "categoryId": 6,
+      "subCategoryId": null,
+      "name": "200 gm - Hexa Detergent",
+      "description": "Economical detergent pack ideal for small-scale or travel use.",
+      "image": "https://i.imgur.com/f1MyzVZ.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Net Weight",
+          "value": "200 gm"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Powder"
+        },
+        {
+          "id": 3,
+          "title": "Fragrance",
+          "value": "Fresh Floral"
+        },
+        {
+          "id": 4,
+          "title": "Color",
+          "value": "White"
+        }
+      ],
+      "safetyInfo": "Store in airtight packaging to prevent moisture absorption.",
+      "applications": [
+        "Light laundry",
+        "Travel cleaning",
+        "Household use"
+      ]
+    },
+    {
+      "id": 60,
+      "departmentId": 3,
+      "categoryId": 7,
+      "subCategoryId": null,
+      "name": "5 Litter – Hexa.pic",
+      "description": "Powerful disinfectant and surface cleaner for household and industrial use.",
+      "image": "https://i.imgur.com/3FObx2B.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Volume",
+          "value": "5 L"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Liquid"
+        },
+        {
+          "id": 3,
+          "title": "Fragrance",
+          "value": "Pine Fresh"
+        },
+        {
+          "id": 4,
+          "title": "Color",
+          "value": "Light Green"
+        }
+      ],
+      "safetyInfo": "Avoid contact with eyes and prolonged skin exposure. Keep away from children.",
+      "applications": [
+        "Floor cleaning",
+        "Bathroom cleaning",
+        "Surface disinfection"
+      ]
+    },
+    {
+      "id": 61,
+      "departmentId": 3,
+      "categoryId": 7,
+      "subCategoryId": null,
+      "name": "750 gm – Hexa.pic",
+      "description": "Concentrated cleaning solution for multipurpose household use.",
+      "image": "https://i.imgur.com/4yXnv0T.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Net Weight",
+          "value": "750 gm"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Liquid"
+        },
+        {
+          "id": 3,
+          "title": "Fragrance",
+          "value": "Pine Fresh"
+        },
+        {
+          "id": 4,
+          "title": "Color",
+          "value": "Light Green"
+        }
+      ],
+      "safetyInfo": "Keep tightly closed when not in use. Avoid inhalation of vapors.",
+      "applications": [
+        "Floor and surface cleaning",
+        "Bathroom cleaning",
+        "Kitchen disinfection"
+      ]
+    },
+    {
+      "id": 62,
+      "departmentId": 3,
+      "categoryId": 7,
+      "subCategoryId": null,
+      "name": "500 gm – Hexa.pic",
+      "description": "Household cleaner effective against germs and stains with a refreshing fragrance.",
+      "image": "https://i.imgur.com/NYY3rWb.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Net Weight",
+          "value": "500 gm"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Liquid"
+        },
+        {
+          "id": 3,
+          "title": "Fragrance",
+          "value": "Pine Fresh"
+        },
+        {
+          "id": 4,
+          "title": "Color",
+          "value": "Light Green"
+        }
+      ],
+      "safetyInfo": "Do not mix with other cleaning agents. Use gloves during application.",
+      "applications": [
+        "Household cleaning",
+        "Bathroom and floor disinfection",
+        "Surface shine and freshness"
+      ]
+    },
+    {
+      "id": 63,
+      "departmentId": 3,
+      "categoryId": 8,
+      "subCategoryId": null,
+      "name": "125 gm – Hexa.vim",
+      "description": "High-quality dishwashing bar designed to remove tough grease and stains, leaving utensils sparkling clean.",
+      "image": "https://i.imgur.com/6dCT8uI.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Weight",
+          "value": "125 gm"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Solid Bar"
+        },
+        {
+          "id": 3,
+          "title": "Fragrance",
+          "value": "Lemon Fresh"
+        },
+        {
+          "id": 4,
+          "title": "Color",
+          "value": "Yellow"
+        }
+      ],
+      "safetyInfo": "Avoid contact with eyes. Store in a dry place after use.",
+      "applications": [
+        "Dishwashing",
+        "Removing tough oil and grease",
+        "Utensil cleaning"
+      ]
+    },
+    {
+      "id": 64,
+      "departmentId": 3,
+      "categoryId": 9,
+      "subCategoryId": null,
+      "name": "5 liter – Hexa.wash",
+      "description": "Liquid detergent formulated for superior fabric care and powerful cleaning performance for both machine and hand wash.",
+      "image": "https://i.imgur.com/UmZGC93.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Volume",
+          "value": "5 Liter"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Liquid"
+        },
+        {
+          "id": 3,
+          "title": "Fragrance",
+          "value": "Fresh Clean"
+        },
+        {
+          "id": 4,
+          "title": "Color",
+          "value": "Blue"
+        }
+      ],
+      "safetyInfo": "Keep out of reach of children. Avoid direct contact with eyes.",
+      "applications": [
+        "Washing clothes",
+        "Removing stains and dirt",
+        "Suitable for both machine and hand wash"
+      ]
+    },
+    {
+      "id": 65,
+      "departmentId": 3,
+      "categoryId": 9,
+      "subCategoryId": null,
+      "name": "250 gm – Hexa.wash",
+      "description": "Compact liquid detergent pack designed for convenient daily use with strong cleaning action and gentle fabric protection.",
+      "image": "https://i.imgur.com/h7Qo8o1.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Weight",
+          "value": "250 gm"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Liquid"
+        },
+        {
+          "id": 3,
+          "title": "Fragrance",
+          "value": "Fresh Clean"
+        },
+        {
+          "id": 4,
+          "title": "Color",
+          "value": "Blue"
+        }
+      ],
+      "safetyInfo": "Avoid prolonged skin contact. Store in a cool and dry place.",
+      "applications": [
+        "Daily laundry use",
+        "Effective cleaning for all fabric types"
+      ]
+    },
+    {
+      "id": 66,
+      "departmentId": 3,
+      "categoryId": 10,
+      "subCategoryId": null,
+      "name": "5 liter – Hexa.clean",
+      "description": "Heavy-duty surface cleaner formulated for deep cleaning and degreasing in homes and commercial spaces.",
+      "image": "https://i.imgur.com/upNB5h0.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Volume",
+          "value": "5 Liter"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Liquid"
+        },
+        {
+          "id": 3,
+          "title": "Usage Area",
+          "value": "Floors, tiles, and hard surfaces"
+        },
+        {
+          "id": 4,
+          "title": "Fragrance",
+          "value": "Citrus Fresh"
+        }
+      ],
+      "safetyInfo": "Avoid contact with eyes and skin. Keep away from children.",
+      "applications": [
+        "Floor and surface cleaning",
+        "Degreasing and stain removal",
+        "Suitable for household and industrial cleaning"
+      ]
+    },
+    {
+      "id": 67,
+      "departmentId": 3,
+      "categoryId": 10,
+      "subCategoryId": null,
+      "name": "1 liter – Hexa.clean",
+      "description": "Multi-purpose cleaner designed for effective daily cleaning of surfaces with a refreshing fragrance.",
+      "image": "https://i.imgur.com/Bq4r8BD.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Volume",
+          "value": "1 Liter"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Liquid"
+        },
+        {
+          "id": 3,
+          "title": "Usage Area",
+          "value": "Floors, tiles, and kitchen surfaces"
+        },
+        {
+          "id": 4,
+          "title": "Fragrance",
+          "value": "Citrus Fresh"
+        }
+      ],
+      "safetyInfo": "Store in a cool place. Avoid ingestion and direct contact with eyes.",
+      "applications": [
+        "Household floor cleaning",
+        "Kitchen and bathroom surface cleaning"
+      ]
+    },
+    {
+      "id": 68,
+      "departmentId": 3,
+      "categoryId": 11,
+      "subCategoryId": null,
+      "name": "125 gm – Hexa.soap",
+      "description": "Premium quality bathing soap enriched with skin-friendly ingredients that ensure freshness and cleanliness.",
+      "image": "https://i.imgur.com/IWb5vHx.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Weight",
+          "value": "125 gm"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Solid Bar"
+        },
+        {
+          "id": 3,
+          "title": "Fragrance",
+          "value": "Refreshing Floral"
+        },
+        {
+          "id": 4,
+          "title": "Color",
+          "value": "White"
+        }
+      ],
+      "safetyInfo": "For external use only. Avoid contact with eyes. Store in a dry place.",
+      "applications": [
+        "Daily body cleansing",
+        "Suitable for all skin types",
+        "Maintains skin freshness and softness"
+      ]
+    },
+    {
+      "id": 69,
+      "departmentId": 3,
+      "categoryId": 11,
+      "subCategoryId": null,
+      "name": "75 gm – Hexa.soap",
+      "description": "Mild and refreshing soap bar ideal for daily personal hygiene and a smooth bathing experience.",
+      "image": "https://i.imgur.com/mjo3JDO.jpeg",
+      "technicalData": [
+        {
+          "id": 1,
+          "title": "Weight",
+          "value": "75 gm"
+        },
+        {
+          "id": 2,
+          "title": "Form",
+          "value": "Solid Bar"
+        },
+        {
+          "id": 3,
+          "title": "Fragrance",
+          "value": "Refreshing Floral"
+        },
+        {
+          "id": 4,
+          "title": "Color",
+          "value": "White"
+        }
+      ],
+      "safetyInfo": "Keep away from direct sunlight. Avoid contact with eyes.",
+      "applications": [
+        "Personal hygiene",
+        "Gentle cleansing for all skin types"
+      ]
+    }
+  ]
+}

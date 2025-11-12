@@ -1,0 +1,102 @@
+{
+    "sub_categories": [
+        {
+            "id": 1,
+            "departmentId":1,
+            "categoryId":1,
+            "name":"Surfactants",
+            "description":"Sub-category for surfactant chemicals used in textile dyes."
+        },
+        {
+            "id": 2,
+            "departmentId":1,
+            "categoryId":1,
+            "name":"Auxiliaries",
+            "description":"Sub-category for auxiliary chemicals used in textile dyes."
+        },
+        {
+            "id": 3,
+            "departmentId":1,
+            "categoryId":2,
+            "name":"Reactive Dyes",
+            "description":"Sub-category for reactive dyes used in textile dyeing."
+        },
+        {
+            "id": 4,
+            "departmentId":1,
+            "categoryId":2,
+            "name":"Direct Dyes",
+            "description":"Sub-category for direct dyes used in textile dyeing."
+        },
+        {
+            "id": 5,
+            "departmentId":1,
+            "categoryId":2,
+            "name":"Disperse Dyes",
+            "description":"Sub-category for disperse dyes used in textile dyeing."
+        },
+        {
+            "id": 6,
+            "departmentId":1,
+            "categoryId":2,
+            "name":"Sulphur Dyes",
+            "description":"Sub-category for sulphur dyes used in textile dyeing."
+        },
+        {
+            "id": 7,
+            "departmentId":2,
+            "categoryId":3,
+            "name":"Knit Fabrics",
+            "description":"Sub-category for knit fabrics used in textile manufacturing."
+        },
+        {
+            "id": 8,
+            "departmentId":2,
+            "categoryId":3,
+            "name":"Woven Fabrics",
+            "description":"Sub-category for woven fabrics used in textile manufacturing."
+        },
+        {
+            "id": 9,
+            "departmentId":2,
+            "categoryId":4,
+            "name":"Men",
+            "description":"Sub-category for men"
+        },
+        {
+            "id": 10,
+            "departmentId":2,
+            "categoryId":4,
+            "name":"Women",
+            "description":"Sub-category for women"
+        },
+        {
+            "id": 11,
+            "departmentId":2,
+            "categoryId":4,
+            "name":"Kids",
+            "description":"Sub-category for kids"
+        },
+        {
+            "id": 12,
+            "departmentId":2,
+            "categoryId":5,
+            "name":"Men",
+            "description":"Sub-category for men"
+        },
+        {
+            "id": 13,
+            "departmentId":2,
+            "categoryId":5,
+            "name":"Women",
+            "description":"Sub-category for women"
+        },
+        {
+            "id": 14,
+            "departmentId":2,
+            "categoryId":5,
+            "name":"Kids",
+            "description":"Sub-category for kids"
+        }
+    ]
+}

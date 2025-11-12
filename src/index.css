@@ -1,0 +1,122 @@
+@import "tailwindcss";
+
+:root {
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+  background-color: #fff;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --primary: #6bbf8a;
+  --secondary: #4b9e6b;
+  --accent: #a8d5ba;
+  --muted: #4b9e6b1e;
+    /* --primary: #08459b;
+  --secondary: #1167b1;
+  --accent: #187bcd;
+  --muted: #4b9e6b1e; */
+  --text: #1a1a1a;
+
+}
+
+
+@keyframes float-tilt {
+
+  0%,
+  100% {
+    transform: translateY(0) rotate(0deg);
+  }
+
+  50% {
+    transform: translateY(-10px) rotate(2deg);
+  }
+}
+
+.floating {
+  animation: float-tilt 3s ease-in-out infinite;
+}
+
+.spin-slow {
+  animation: spin-slow 20s linear infinite; /* slow spin */
+}
+
+
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.stroke-text {
+  color: transparent; /* Makes text hollow */
+  -webkit-text-stroke: 2px var(--primary); /* Border color + thickness */
+}
+
+
+
+/* loader css */
+.bubble {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  background: radial-gradient(circle at 30% 30%, #ff6b6b, #c41e1e);
+  border-radius: 50%;
+  opacity: 0;
+  bottom: 0;
+  z-index: 10;
+  border: 1px solid red;
+  /* Animation */
+  animation: rise 2.5s infinite ease-out;
+}
+
+.bubble-1 {
+  left: 0;
+  animation-delay: 0s;
+}
+.bubble-2 {
+  left: -8px;
+  animation-delay: 0.4s;
+}
+.bubble-3 {
+  left: 8px;
+  animation-delay: 0.8s;
+}
+.bubble-4 {
+  left: -4px;
+  animation-delay: 1.2s;
+}
+.bubble-5 {
+  left: 4px;
+  animation-delay: 1.6s;
+}
+
+@keyframes rise {
+  0% {
+    transform: translateY(0) scale(0.6);
+    opacity: 0;
+  }
+  30% {
+    opacity: 0.8;
+  }
+  100% {
+    transform: translateY(-60px) scale(1.4);
+    opacity: 0;
+    /* Bubbles disappear at the top */
+  }
+}
+.clip-hexagon {
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+
+/* Optional: Glow effect */
+.glow {
+  box-shadow: 0 0 20px rgba(107, 191, 138, 0.6);
+  border: 2px solid rgba(107, 191, 138, 0.5);
+}
